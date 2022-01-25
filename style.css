@@ -1,0 +1,29 @@
+.heading{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    box-shadow: 8px 8px 8px grey;
+    font-family: 'Zen Antique', serif;
+}
+
+.note{
+    font-size: 15px;
+    color:black;
+    overflow-wrap: break-word;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:darkviolet;
+    line-height:3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid blue;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}
